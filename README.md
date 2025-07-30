@@ -1,1 +1,1 @@
-# apple-shortcuts
+# Apple Shortcuts
